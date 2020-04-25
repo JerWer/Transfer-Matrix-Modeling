@@ -1,0 +1,8 @@
+# SETFOS Semiconducting Thin Film Optics Simulator (c)
+# Example material file
+#
+# water=H20, source: IAPWS
+# nm n k
+400	1.344 	2e-9
+550	1.335	2.5e-9
+700	1.331	3.5e-8

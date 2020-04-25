@@ -1,0 +1,14 @@
+# SETFOS Semiconducting Thin Film Optics Simulator (c)
+# Example material file
+#
+# Magnesium
+# CRC data only from 435 to 577 nm, the rest extrapolated `manually
+#
+400 0.5 2.5
+435 0.52 2.65
+491 0.53 2.92
+545 0.57 3.47
+577 0.48 3.71
+600 0.5 4
+700 0.53 4.3
+800 0.55 4.5

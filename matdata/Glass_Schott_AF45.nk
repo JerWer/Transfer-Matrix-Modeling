@@ -1,0 +1,10 @@
+# SETFOS Semiconducting Thin Film Optics Simulator (c)
+# Example material file
+#
+# Glass
+# Schott AF 45
+# alkali-free in synthesis and with a coefficient for thermal expansion near silicon
+# data from www.schott.com/display
+400 1.5254
+2000 1.5254
+
