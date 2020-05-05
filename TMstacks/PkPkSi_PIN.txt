@@ -8,7 +8,7 @@ IOHcrystallized	50	0	0
 SnO2	10	0	0
 C60	15	0	0
 Pk12eV	650	1	0
-s_TaTm	10	0	0
+TaTm	10	0	0
 IZOpvlab	50	0	0
 aSin	10	0	0
 aSii	6	0	0

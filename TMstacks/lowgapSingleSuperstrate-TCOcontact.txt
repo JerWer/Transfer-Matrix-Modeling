@@ -1,7 +1,0 @@
-SiO2	700000	0	1
-s_ITO4	110	0	0
-Pk12eV	500	1	0
-C60	30	0	0
-SnO2	15	0	0
-IZOpvlab	40	0	0
-Agpvlab	120	0	0
