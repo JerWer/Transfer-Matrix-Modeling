@@ -32,8 +32,9 @@ import csv
 import tmm.tmm_core as tm
 import pickle
 import math
-
-from TMsimulGUI import Ui_TransferMatrixModeling
+from PyQt5.uic import loadUiType
+# from TMsimulGUI import Ui_TransferMatrixModeling
+Ui_TransferMatrixModeling, QMainWindow = loadUiType('TMsimulGUI.ui')
 
 admittance0=2.6544E-3
 echarge = 1.60218e-19
@@ -599,7 +600,11 @@ More info about transfer matrix modeling: https://en.wikipedia.org/wiki/Transfer
 based on transfer matrix python package tmm, written by Steven Byrnes, http://sjbyrnes.com
 main code to generate the matrices and calculate the currents written by Gabriel Christmann (PV-Center, CSEM)
 readaptation and completion by Jérémie Werner (EPFL PVlab 2014-2018, CU Boulder 2019-2020), 
-latest update: April 2020
+latest update: May 2020
+
+This code for this app is open source and was used in the following publication,
+in case you consider showing support and recognition to the author;): 
+https://pubs.acs.org/doi/full/10.1021/acsenergylett.8b00089
                               
 ##################
 IQE=100%
